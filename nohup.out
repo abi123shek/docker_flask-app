@@ -1,0 +1,6 @@
+What manual page do you want?
+For example, try 'man man'.
+You cannot attach to a stopped container, start it first
+172.17.0.1 - - [27/Dec/2024 16:17:39] "[33mGET /status HTTP/1.1[0m" 404 -
+172.17.0.1 - - [27/Dec/2024 16:17:44] "[33mGET /home HTTP/1.1[0m" 404 -
+172.17.0.1 - - [27/Dec/2024 16:17:48] "GET / HTTP/1.1" 200 -
